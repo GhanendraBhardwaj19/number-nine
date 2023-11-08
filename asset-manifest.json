@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/number-nine/static/css/main.6de69fa1.css",
+    "main.js": "/number-nine/static/js/main.a922d1f4.js",
+    "static/media/jinie.png": "/number-nine/static/media/jinie.dc20a613dc537dee8e54.png",
+    "index.html": "/number-nine/index.html",
+    "main.6de69fa1.css.map": "/number-nine/static/css/main.6de69fa1.css.map",
+    "main.a922d1f4.js.map": "/number-nine/static/js/main.a922d1f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6de69fa1.css",
+    "static/js/main.a922d1f4.js"
+  ]
+}
